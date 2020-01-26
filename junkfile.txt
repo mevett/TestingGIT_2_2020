@@ -1,1 +1,1 @@
-First contents of junkfile
+This is an altered version of junkfile.
