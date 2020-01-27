@@ -1,1 +1,2 @@
 Original contents of firstFile
+This is the new code provided by UserA to implement a cool new feature.
